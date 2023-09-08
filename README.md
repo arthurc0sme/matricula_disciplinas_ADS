@@ -18,3 +18,22 @@ Pontos importantes a serem destacados:
 
 
 Guardo esse código como uma boa lembrança e uma superação pessoal, já que além de ser um dos meus primeiros códigos em java, fui o único da turma a conseguir tirar nota máxima no desafio.
+
+## Description [EN]
+
+Challenge proposed by my Object Oriented Programming professor in the second semester of the Systems Analysis and Development course, in which he was asked to develop a code in which the user would be able to:
+
+- Perform registration, informing name, registration number, number of disciplines taken and their respective semester;
+- Show on the screen all disciplines of the Systems Analysis and Development course;
+- Show on the screen all subjects taken by the student;
+- Show all subjects left for the student to attend.
+
+Important points to highlight:
+- When informing the name of the disciplines, the name must be typed exactly as it appears in the course curriculum, available on the website of Universidade Do Vale Do Rio Dos Sinos - UNISINOS.
+- The challenge was to make the program based on menus;
+- The use of arrays or lists was not allowed;
+- At the time of writing the code, my knowledge of Java was very basic, so the code turned out to be extremely extensive and without much polish;
+
+
+
+I keep this code as a good memory and a personal achievement, since in addition to being one of my first Java codes, I was the only one in the class to get the highest score in the challenge.
