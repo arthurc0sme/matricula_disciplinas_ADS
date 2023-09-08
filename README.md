@@ -17,4 +17,4 @@ Pontos importantes a serem destacados:
 
 
 
-Guardo esse código como uma boa lembrança e uma superação pessoal, já que fui o único da turma a conseguir tirar nota máxima no desafio.
+Guardo esse código como uma boa lembrança e uma superação pessoal, já que além de ser um dos meus primeiros códigos em java, fui o único da turma a conseguir tirar nota máxima no desafio.
